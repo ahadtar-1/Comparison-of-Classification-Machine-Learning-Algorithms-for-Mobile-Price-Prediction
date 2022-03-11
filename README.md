@@ -7,8 +7,7 @@ https://www.kaggle.com/iabhishekofficial/mobile-price-classification?select=trai
 
 Python Notebook file:
 The notebook file consists of the machine learning code exhibited comprising of the classification models.
-Models used
-Logistic Regression, Support Vector Machine, XGBoost, Decision Trees, K-Nearest Neighbors
+The models used are Logistic Regression, Support Vector Machine, XGBoost, Decision Trees, K-Nearest Neighbors.
 
 Project Paper:
 The project paper comprises of an abstract, literature review, methodology, results, futurework, references, and conclusion. 
